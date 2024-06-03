@@ -7,10 +7,10 @@ html, body {
 }
 
 .fadeIn {
-    width: 200px;
-    height: 200px;
+    width: 500px;
+    height: 500px;
     background: blue;
-    animation: fadeIn 1s ease 3s alternate;
+    animation: fadeIn 1s ease 0.5s alternate;
     opacity: 0;
     border-radius: 50%; 
     filter: blur(3.5rem);
