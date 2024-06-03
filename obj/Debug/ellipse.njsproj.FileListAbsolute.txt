@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\ellipse\ellipse\obj\Debug\ellipse.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\ellipse\ellipse\obj\Debug\ellipse.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\ellipse\ellipse\bin\Microsoft.NodejsTools.WebRole.dll
